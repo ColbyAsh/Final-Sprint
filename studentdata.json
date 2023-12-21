@@ -1,0 +1,10 @@
+
+{
+    "records": [
+        {"id": 1, "name": "John Doe", "age": 25, "isStudent": false},
+        {"id": 2, "name": "Jane Smith", "age": 30, "isStudent": true},
+        {"id": 3, "name": "Bob Johnson", "age": 22, "isStudent": false},
+        {"id": 4, "name": "Alice Brown", "age": 28, "isStudent": true},
+        {"id": 5, "name": "Charlie White", "age": 35, "isStudent": false}
+    ]
+}
